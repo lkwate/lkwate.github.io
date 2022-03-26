@@ -49,6 +49,13 @@ Work experience
   * Learning and application of risk detection strategies in project management.
   * Supervisors: Moukouop Ibrahim
   
+Open-Source Contributions
+======
+* Huggingface
+  * [Legal-BigBird-EurLex](https://huggingface.co/lkwate/legal-bigbird-eurlex)
+  * [Legal-BigBird-US](https://huggingface.co/lkwate/legal-bigbird-us)
+  * [Roberta-base-MNLI](https://huggingface.co/lkwate/roberta-base-mnli)
+
 Projects
 ======
 * **Natural Language Inference with Commonsense knowledge Graph** *Ongoing*
