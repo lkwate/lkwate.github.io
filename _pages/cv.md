@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download My Resume](https://lkwate.github.io/files/PhD_CV.pdf)
 
 Education
 ======
