@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Loïc Kwate Dassi / Loïc Kwate"
+title                    : "Loïc Kwate Dassi"
 title_separator          : "-"
 name                     : &name "Loïc Kwate Dassi"
 description              : &description "Research Intern at Mila"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" (default), "light" # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Loïc Kwate Dassi"
   avatar           : "profile.jpg"
-  bio              : "Currently Research Intern at Mila, I am a NLP enthusiatic researcher"
+  bio              : "Currently Research Intern at Mila and NLP enthusiatic researcher"
   location         : "Grenoble, France"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
