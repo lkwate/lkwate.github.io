@@ -22,5 +22,6 @@ Research Interests
 ======
 While I remain widely open to addressing every problem using deep learning-based approaches and reasoning, I feel excited about pursuing research falling into the following remits: 
 * Boost machine-reading models using context-based (Attention-based models) and context-free (Commonsense knowledge) language presentation
-* Tailor language generation models to produce text satisfying a given metric ahead using Reinforcement Learning
+* Tailor language generation models to produce text satisfying a given metric ahead using Reinforcement Learning.
+
 Besides the said topics, I am interested in Computer Vision, Reinforcement Learning, braodly in Deep Learning.
