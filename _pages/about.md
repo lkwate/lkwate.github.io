@@ -25,3 +25,7 @@ While I remain widely open to addressing every problem using deep learning-based
 * Tailor language generation models to produce text satisfying a given metric ahead using Reinforcement Learning.
 
 Besides the said topics, I am interested in Computer Vision, Reinforcement Learning, braodly in Deep Learning.
+
+Extra Research
+======
+I feel particularly interested in research, including life as a whole, existential questions, consciousness, the roots of living things, and metaphysics.
