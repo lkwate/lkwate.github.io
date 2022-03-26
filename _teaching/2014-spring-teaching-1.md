@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematics and Physics Tutor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "NASE Yaounde, Maths and Physics Departements"
 date: 2014-01-01
-location: "City, Country"
+location: "Yaounde, Cameroon"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Rehearshal courses for freshmen having specific difficulties in understanding first- and second-year courses in Maths, Physics and Computer Science
