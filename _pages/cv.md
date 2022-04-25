@@ -24,6 +24,10 @@ at INP-Ensimag of Grenoble, France, 2020. Acceptance rate: 6%
 
 Work experience
 ======
+* May 2022 -- Sep 2022: **Scientist in Residence**, Korbit
+  * Quebec, Canada
+  * Transformer-based models and Natural Language Generation for Education
+  
 * Jan 2022 -- Present: **Research Intern**, Mila, Quebec AI Institute
   * Quebec, Canada
   * Working on learning latent hypergraph representation using generative flows networks
